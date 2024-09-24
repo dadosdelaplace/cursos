@@ -29,13 +29,10 @@
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/26646492/227980189-f1eab6d6-d915-45ad-b62b-c770fb6e241c.png">
 
             
-* **Diapositivas** (https://dadosdelaplace.github.io/curso-R-RTVE/index.html)
+* **Diapositivas** (https://dadosdelaplace.github.io/cursos/curso-R-RTVE/index.html)
    
-* **Código diapositivas** (https://github.com/dadosdelaplace/curso-R-RTVE/tree/main/index.qmd)
-                        
-* **Documentación paquetes**: (https://github.com/dadosdelaplace/curso-R-RTVE/tree/main/fichas%20paquetes)
+* **Código diapositivas** (https://github.com/dadosdelaplace/cursos/curso-R-RTVE/tree/main/index.qmd)
 
-* **Manual introductorio de R**: (https://dadosdelaplace.github.io/courses-intro-R/)
 
 
 
