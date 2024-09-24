@@ -26,8 +26,8 @@
 
 <h1 align="left">Welcome to my seminars and courses materials</h1>
          
-<a href="https://javieralvarezliebana.es/docencia/R-datascience/diapos"><img width="350" alt="image" src="https://github.com/user-attachments/assets/05139ab7-a688-4f79-8897-9d2ba6705f02">
-<a href="https://javieralvarezliebana.es/docencia/R-biostats/diapos"><img width="350" alt="image" src="https://github.com/user-attachments/assets/e12bb42d-0644-4671-b914-3220a74fe3a6">
-<a href="https://javieralvarezliebana.es/docencia-R-supervisado-2324/diapos"><img width="350" alt="image" src="https://github.com/user-attachments/assets/29aaffac-19e1-46cf-a7e7-082c021afcc3">
+<a href="https://javieralvarezliebana.es/cursos/curso-R-RTVE/index.html"><img width="350" alt="image" src="https://github.com/user-attachments/assets/05139ab7-a688-4f79-8897-9d2ba6705f02">
+<a href="https://javieralvarezliebana.es/cursos/curso-R-RTVE/index.html"><img width="350" alt="image" src="https://github.com/user-attachments/assets/e12bb42d-0644-4671-b914-3220a74fe3a6">
+<a href="https://javieralvarezliebana.es/cursos/curso-R-RTVE/index.html"><img width="350" alt="image" src="https://github.com/user-attachments/assets/29aaffac-19e1-46cf-a7e7-082c021afcc3">
 
 🕸 You can check all courses and seminars materials at <https://javieralvarezliebana.es/cursos/>
